@@ -1,0 +1,18 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "Nyangfarm"
+
+[ejs.landing]
+mediaGitHubURL = "https://github.com/jay6977/Nyang"
+mediaTwitterURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "https://discord.gg/zcjDyEw"
+
+[ejs.settings]
+sourceGithubLink = "https://github.com/jay6977/Nyang"
+supportLink = "https://github.com/jay6977/Nyang/issues"
+
+[ejs.welcome]
+welcomeDescCTA = "아래의 계속하기 버튼을 클릭해주세요!"
